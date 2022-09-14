@@ -1,1 +1,29 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ nav ul li{
+    background-color: #ffcb05;
+    margin-left: 5px;
+    list-style-type: upper-roman;
+    border: 2px solid navy;
+    border-radius: 25px;
+    padding: 10px;
+    display: inline-block;
+    font-family: 'Superstar M54', 'Times New Roman', 'Arial';
+ }
 
+ img {
+    width: 24%;
+    padding : 11px;
+    border: dashed 2px green;
+
+ }
+ 
